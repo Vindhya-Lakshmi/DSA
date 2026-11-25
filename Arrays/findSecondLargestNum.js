@@ -18,4 +18,4 @@ function findSecondLargest(nums) {
 
 const nums = [12, 45, 7, 89, 34, 67, 89, 23];
 
-console.log("Second Largest number: " + findSecondLargest(nums));
+console.log("cr: " + findSecondLargest(nums));
